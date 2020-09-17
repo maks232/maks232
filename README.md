@@ -16,9 +16,6 @@ Here are some ideas to get you started:
 -->
 
 
-![me paddling](https://secure.gravatar.com/avatar/092f956a3dac40441f35863e7c333d5a?s=200)
-
-
 <!-- 
   Skills: Javascript ( Reactjs| Vuejs) | Python (Flask|Django) | Linux 
 -->
